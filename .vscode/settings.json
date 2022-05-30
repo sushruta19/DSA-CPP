@@ -1,0 +1,8 @@
+{
+  //Hides executables and other unnecessary files in explorer side bar
+  "files.exclude": {
+    "**/*.out": true,
+    "LICENSE":true,
+    ".gitignore":true
+}
+}
