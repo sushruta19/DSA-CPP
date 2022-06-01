@@ -146,6 +146,33 @@ void deleteLinkedList2(Node* head)
 //The above function will make the original head pointer of linked list a
 //dangling pointer. So make sure to set head to NULL in the main() function.
 
+/***************************Searching**************************/
+
+//Search given key
+//Iterative
+bool search(Node* head, int key)
+{
+  Node* current = head;
+  while(current!=NULL)
+  {
+    if(current->data == key)
+      return true;
+  }
+  return false;
+}
+
+//Search given key
+//Recursive
+bool search(Node* head, int key)
+{
+  if(head==NULL)
+    return false;
+  else if(head->data == key)
+    return true;
+  else
+    return search(head->next,key);
+}
+
 /***************************Printing***************************/
 
 //Printing singly linked list
