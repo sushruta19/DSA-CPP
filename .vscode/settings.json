@@ -4,5 +4,9 @@
     "**/*.out": true,
     "LICENSE":true,
     ".gitignore":true
+  },
+  "files.associations": {
+    "set": "cpp"
   }
+ 
 }

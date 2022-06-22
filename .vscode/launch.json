@@ -11,7 +11,7 @@
       "stopAtEntry": true,
       "cwd": "${fileDirname}",
       "environment": [],
-      "externalConsole": false,
+      "externalConsole": true,  //for taking inputs
       "MIMode": "gdb",
       "setupCommands": [
         {
