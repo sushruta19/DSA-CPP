@@ -36,7 +36,7 @@ void append(Node** head_ref, int data)
     return;
   }
   Node* current = *head_ref;
-  while(current!=NULL)
+  while(current->next!=NULL)
     current=current->next;
   current->next = new_node;
 }
