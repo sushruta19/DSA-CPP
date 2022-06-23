@@ -7,6 +7,7 @@ A seperate repository [DSA-Leetcode](#) has been made exclusively for leetcode p
 
 ## Important Data Structures and Data Types
 - [Linked List](./1]linked-list)
+
 | S.No. | Topics |
 | ----- | ---- |
 | 1 | [Singly Linked List](./1]linked-list/1]singly-linked-list) |
@@ -15,6 +16,7 @@ A seperate repository [DSA-Leetcode](#) has been made exclusively for leetcode p
 - [Stack](./2]stack)
 - [Queue](./3]queue)
 - [Binary Tree](./4]binary-tree)
+
 | S.No. | Topics |
 | ----- | ---- |
 | 1 | [Binary Search Tree](./binary-tree/binary-search-tree) |
