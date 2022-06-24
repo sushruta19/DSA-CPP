@@ -1,6 +1,7 @@
 # DSA-CPP
 This repository contains the necessary data structures and algorithms from beginner level to advanced, their implementation and problems related to it.
-The problems have been collected from various SDE sheets, Codeforces ladders and coding interviews.
+The problems have been collected from GeeksForGeeks, various SDE sheets, Codeforces ladders and coding interviews.
+
 **Both iterative and recursive implementation of functions are given wherever possible**
 
 A seperate repository [DSA-Leetcode](#) has been made exclusively for leetcode problems.
