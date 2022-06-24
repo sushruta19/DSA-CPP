@@ -20,7 +20,7 @@ A seperate repository [DSA-Leetcode](#) has been made exclusively for leetcode p
 
 | S.No. | Topics |
 | ----- | ---- |
-| 1 | [Binary Search Tree](./binary-tree/binary-search-tree) |
+| 1 | [Binary Search Tree](./4]binary-tree/1]bst) |
 
 - [Arrays and Strings](./5]arrays-strings)
 
