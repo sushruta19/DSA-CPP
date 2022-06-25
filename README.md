@@ -4,7 +4,7 @@ The problems have been collected from GeeksForGeeks, various SDE sheets, Codefor
 
 **Both iterative and recursive implementation of functions are given wherever possible**
 
-A seperate repository [DSA-Leetcode](#) has been made exclusively for leetcode problems.
+A seperate repository [DSA-Leetcode](https://github.com/sushruta19/DSA-Leetcode) has been made exclusively for leetcode problems.
 
 ## Important Data Structures and Data Types
 - [Linked List](./1]linked-list)
