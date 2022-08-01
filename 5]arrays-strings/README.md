@@ -8,3 +8,4 @@
 | 4 | [Print substrings of given string](04-print-substrings.cpp) |
 | 5 | [Check whether str1 is substring of str2](04-print-substrings.cpp) |
 | 6 | [Check whether str1 is subsequence of str2](05-is-subsequence-string.cpp) |
+| 7 | [Print all subsequences of the given string](06-print-subsequences.cpp) |
