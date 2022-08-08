@@ -8,4 +8,7 @@
 | 4 | [Print substrings of given string](04-print-substrings.cpp) |
 | 5 | [Check whether str1 is substring of str2](04-print-substrings.cpp) |
 | 6 | [Check whether str1 is subsequence of str2](05-is-subsequence-string.cpp) |
-| 7 | [Print all subsequences of the given string](06-print-subsequences.cpp) |
+| 7 | [Print all subsequences of the given string](06-print-subsequences-string.cpp) |
+| 8 | [Print all subsequences having sum k of given array](07-print-ksum-subseq.cpp) |
+| 9 | [Print any one subsequence having sum k of given array ](08-print-ksum-oneSubseq.cpp) |
+| 10 | [Count subsequences having sum k of array](09-count-ksum-subseq.cpp) |
