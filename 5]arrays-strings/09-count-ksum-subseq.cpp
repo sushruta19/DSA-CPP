@@ -5,7 +5,7 @@ using namespace std;
 //returning number of subsequences whose sum is k
 //T:O(2^n) AS:O(1)
 int countKsumSubseq(int ind, int sum, vector<int>& arr, int k) {
-  if(ind == arr.size())
+  if(ind == (int)arr.size())
   {
     if(sum == k)
       return 1;

@@ -12,3 +12,4 @@
 | 8 | [Print all subsequences having sum k of given array](07-print-ksum-subseq.cpp) |
 | 9 | [Print any one subsequence having sum k of given array ](08-print-ksum-oneSubseq.cpp) |
 | 10 | [Count subsequences having sum k of array](09-count-ksum-subseq.cpp) |
+| 11 | [Rotation of array](10-rotate-array.cpp)
